@@ -15,10 +15,10 @@ Menganalisa performa bisnis untuk sebuah perusahan eCommerce, dengan memperhitun
 
 
 # Insight/Analisis
-1. Setiap tahunnya aktivitas customer bulanan (MAU) dan customer baru mengalami peningkatan, hanya saja pada tahun 2016 memiliki perbedaan yang sangat signifikan dengan tahun 2017 dan 2018, dikarenakan data yang tersedia dimulai pada bulan September 2016.
+1. Setiap tahunnya aktivitas customer bulanan (MAU) dan customer baru mengalami peningkatan, hanya saja pada tahun 2016 memiliki perbedaan yang sangat signifikan dengan tahun 2017 dan 2018, dikarenakan data yang tersedia dimulai pada bulan September 2016. <br><br>
 ![alt text](https://github.com/bumianugrahhh/Analyzing_eCommerce/blob/master/Fig/Increase%20of%20Average%20MAU%20and%20New%20Customer.png)
 
-2. Dari tahun 2017 ke tahun 2018 customer yang melakukan repeat order mengalami penurunan. Jika dibandingan dengan customer baru yang mengalami peningkatan tiap tahunnya, itu berarti rata-rata order yang dilakukan customer hanya sekali saja sepanjang tahun
+2. Dari tahun 2017 ke tahun 2018 customer yang melakukan repeat order mengalami penurunan. Jika dibandingan dengan customer baru yang mengalami peningkatan tiap tahunnya, itu berarti rata-rata order yang dilakukan customer hanya sekali saja sepanjang tahun <br><br>
 ![alt text](https://github.com/bumianugrahhh/Analyzing_eCommerce/blob/master/Fig/Decrease%20in%20Repeat%20Customer.png)
 
 3. Dari analisi ini, terlihat bahwa setiap tahunnya jumlah revenue terus meningkat dan category product yang menjadi best seller atau yang memberikan revenue terbanyak berbeda-beda pula setiap tahunnya. <br><br>
