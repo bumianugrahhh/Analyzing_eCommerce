@@ -1,7 +1,7 @@
 # Analyzing eCommerce Business Performance with SQL: Project Overview
-- Berperan sebagai anggota dari tim **Data Analytics** di salah satu perusahaan marketplace terbesar di Amerika Selatan yang menghubungkan pelaku bisnis mikro dengan para pelanggannya. Mendapatkan tanggung jawab untuk menganalisis tiga aspek yang berkaitan dengan performa bisnis perusahaan tersebut, diantaranya : **pertumbuhan pelanggan, kualitas produk dan tipe pembayaran**.
+- Berperan sebagai anggota dari tim **Data Analytics** di salah satu perusahaan marketplace terbesar di Amerika Selatan yang menghubungkan pelaku bisnis mikro dengan para pelanggannya. Mendapatkan tanggung jawab untuk menganalisis tiga aspek yang berkaitan dengan performa bisnis perusahaan tersebut, diantaranya : **pertumbuhan pelanggan**, **kualitas produk** dan **tipe pembayaran**.
 - Terdapat 8 dataset berekstensi *csv* [here](https://github.com/bumianugrahhh/Analyzing_eCommerce/tree/master/Dataset)
-- 
+- Membuat Entity Relationship Diagram (ERD) dengan PgAdmin4 dan mengekspor dalam bentuk 
 
 ## Tools
 - Pgadmin4
